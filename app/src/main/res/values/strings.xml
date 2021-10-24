@@ -1,0 +1,8 @@
+<resources>
+  <string name="app_name">MyCatStart</string>
+  <string name="title_change_image_cat">Ganti Gambar Kucing</string>
+  <string name="error_image_cat">Error Gambar Kucing</string>
+  <string name="title_ok">OK</string>
+  <string name="title_loading_image_cat">Mendapatkan url, mohon tunggu..</string>
+  <string name="title_empty_url">Path url kosong</string>
+</resources>
